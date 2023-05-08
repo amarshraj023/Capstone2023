@@ -16,22 +16,6 @@ A significant portion of driving hazards is caused by human error and disregard 
 
 ```
 
-## Updates
-
-- October 20, 2022: Accepted in NeurIPS 2022 Workshop on Machine Learning for Autonomous Driving! :fire:
-- February 5, 2021: Won 1st place in the National Rahneshan competition 2020-2021 for autonomous vehicles! :tada:
-- January 10, 2021: First release.
-
-
-## Results
-
-### Results on BDD100K dataset
-
-![bdd](https://user-images.githubusercontent.com/61879630/199363094-6149ddd8-d2e8-4343-bea1-fee052d8bd5b.jpg)
-
-### Results on our local dataset
-
-![local](https://user-images.githubusercontent.com/61879630/199363107-e4ebb719-ac51-49f7-ae61-f663caaad6c6.jpg)
 
 
 ## Inference
@@ -60,17 +44,9 @@ Afterwards, the program starts running and the output video will be saved in the
 
 There you have it.
 
-## Colab Notebook
-You can also use the provided colab notebook to automatically download all the weights and sample video, and run the program in a matter of seconds!
 
-Simply open the following colab notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pandas-Team/Autonomous-Vehicle-Environment-Perception/blob/main/Instructions.ipynb)
 
-## Cited Works
-1. Yolov5 ([Github](https://github.com/ultralytics/yolov5))
-2. SGDepth ([Github](https://github.com/ifnspaml/SGDepth))
-3. PINet ([Github](https://github.com/koyeongmin/PINet_new))
 
 ## Datasets
 
@@ -82,15 +58,4 @@ Please download from [here](https://drive.google.com/uc?export=download&id=1-bRF
 2. DFG Traffic Sign Data Set [Link](https://www.vicos.si/Downloads/DFGTSD#:~:text=Dataset%20consists%20of%20200%20traffic,around%207000%20high%2Dresolution%20images.&text=The%20images%20have%20been%20anonymized,with%20the%20EU%20GDPR%20legislation.)
 
 
-## Our Team
-We as Team Pandas won 1st place in the National Rahneshan competition 2020-2021 for autonomous vehicles. This contest has been one of the most competitive and challenging contests in the Rahneshan tournaments with more than 15 teams competing from top universities in Iran.
-![Pandas6](https://user-images.githubusercontent.com/44018277/113591619-5e12c700-9649-11eb-805d-dd504081456e.jpg)
 
-### Contact us
-Feel free to contact us via email or connect with us on linkedin.
-
-- Milad Soltany --- [Linkedin](https://www.linkedin.com/in/milad-soltany/), [Github](https://github.com/miladsoltany) , [Email](mailto:soltany.m.99@gmail.com)
-- Abbas Omidi --- [Linkedin](https://www.linkedin.com/in/abbasomidi77/), [Github](https://github.com/abbasomidi77), [Email](mailto:abbasomidi77@gmail.com)
-- Amirhossein Kazerouni ---  [Linkedin](https://www.linkedin.com/in/amirhossein477/), [Github](https://github.com/amirhossein-kz), [Email](mailto:Amirhossein477@gmail.com )
-- Amirhossein Heydarian ---  [Linkedin](https://www.linkedin.com/in/amirhosseinh77/), [Github](https://github.com/amirhosseinh77), [Email](mailto:amirhossein4633@gmail.com )
-- Aida Mohammadshahi ---  [Linkedin](https://www.linkedin.com/in/aida-mohammadshahi-9845861b3/), [Github](https://github.com/aidamohammadshahi), [Email](mailto:aidamoshahi@gmail.com)
